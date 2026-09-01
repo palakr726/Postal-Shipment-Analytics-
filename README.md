@@ -4,7 +4,7 @@ A data wrangling and exploratory analysis project on a real-world
 last-mile delivery logistics dataset, built with Python, Pandas and
 Streamlit.
 
-**Live app:** _add your Streamlit Cloud link here once deployed_
+**Live app:** https://postal-shipment-analytics.streamlit.app/
 
 ## Key Findings
 
